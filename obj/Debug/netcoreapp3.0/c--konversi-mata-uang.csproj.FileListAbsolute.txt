@@ -1,0 +1,11 @@
+/Users/renaldi/Documents/cobaC#/TA/c--konversi-mata-uang/bin/Debug/netcoreapp3.0/c--konversi-mata-uang
+/Users/renaldi/Documents/cobaC#/TA/c--konversi-mata-uang/bin/Debug/netcoreapp3.0/c--konversi-mata-uang.deps.json
+/Users/renaldi/Documents/cobaC#/TA/c--konversi-mata-uang/bin/Debug/netcoreapp3.0/c--konversi-mata-uang.runtimeconfig.json
+/Users/renaldi/Documents/cobaC#/TA/c--konversi-mata-uang/bin/Debug/netcoreapp3.0/c--konversi-mata-uang.runtimeconfig.dev.json
+/Users/renaldi/Documents/cobaC#/TA/c--konversi-mata-uang/bin/Debug/netcoreapp3.0/c--konversi-mata-uang.dll
+/Users/renaldi/Documents/cobaC#/TA/c--konversi-mata-uang/bin/Debug/netcoreapp3.0/c--konversi-mata-uang.pdb
+/Users/renaldi/Documents/cobaC#/TA/c--konversi-mata-uang/obj/Debug/netcoreapp3.0/c--konversi-mata-uang.csprojAssemblyReference.cache
+/Users/renaldi/Documents/cobaC#/TA/c--konversi-mata-uang/obj/Debug/netcoreapp3.0/c--konversi-mata-uang.AssemblyInfoInputs.cache
+/Users/renaldi/Documents/cobaC#/TA/c--konversi-mata-uang/obj/Debug/netcoreapp3.0/c--konversi-mata-uang.AssemblyInfo.cs
+/Users/renaldi/Documents/cobaC#/TA/c--konversi-mata-uang/obj/Debug/netcoreapp3.0/c--konversi-mata-uang.dll
+/Users/renaldi/Documents/cobaC#/TA/c--konversi-mata-uang/obj/Debug/netcoreapp3.0/c--konversi-mata-uang.pdb

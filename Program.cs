@@ -1,15 +1,12 @@
 ﻿using System;
 
-namespace TES2
+namespace c__konversi_mata_uang
 {
     class Program
     {
         static void Main(string[] args)
         {
-            double nilaiValuasi, nilaiInput, hasilKeRupiah, hasilKeDolar;
-
-            
-
+											double nilaiValuasi, nilaiInput, hasilKeRupiah, hasilKeDolar;
             int pilihan;
 
             Console.WriteLine("Daftar Pilihan");
