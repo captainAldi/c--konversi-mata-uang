@@ -1,0 +1,11 @@
+D:\Susi\TA ALPROG\TES2\bin\Debug\netcoreapp3.1\TES2.exe
+D:\Susi\TA ALPROG\TES2\bin\Debug\netcoreapp3.1\TES2.deps.json
+D:\Susi\TA ALPROG\TES2\bin\Debug\netcoreapp3.1\TES2.runtimeconfig.json
+D:\Susi\TA ALPROG\TES2\bin\Debug\netcoreapp3.1\TES2.runtimeconfig.dev.json
+D:\Susi\TA ALPROG\TES2\bin\Debug\netcoreapp3.1\TES2.dll
+D:\Susi\TA ALPROG\TES2\bin\Debug\netcoreapp3.1\TES2.pdb
+D:\Susi\TA ALPROG\TES2\obj\Debug\netcoreapp3.1\TES2.csprojAssemblyReference.cache
+D:\Susi\TA ALPROG\TES2\obj\Debug\netcoreapp3.1\TES2.AssemblyInfoInputs.cache
+D:\Susi\TA ALPROG\TES2\obj\Debug\netcoreapp3.1\TES2.AssemblyInfo.cs
+D:\Susi\TA ALPROG\TES2\obj\Debug\netcoreapp3.1\TES2.dll
+D:\Susi\TA ALPROG\TES2\obj\Debug\netcoreapp3.1\TES2.pdb
